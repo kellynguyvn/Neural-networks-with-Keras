@@ -11,7 +11,7 @@ a) Write simple colabs to illustrate various data augmentation and generalizatio
   7. custsom dropout, custom regularization
   8. using callbacks and tensorboard
   9. using keras tuner
-  10. use keras cv data augmentation https://keras.io/keras_cv/ in colabLinks to an external site.Links to an external site.
+  10. use keras cv data augmentation https://keras.io/keras_cv/ in colab
   11. write colabs for data augmentation and classification  for image, video, text (nlpaug), timeseries, tabulardata, speech, document images
   12. Demonstrate fastai data augmentation capablities 
 
